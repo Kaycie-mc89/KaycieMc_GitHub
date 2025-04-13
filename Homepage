@@ -1,8 +1,31 @@
+# Welcome to My Portfolio
 
-   Kaycie McColley's GitHub Page
+## Biography:
 
-    Welcome to my homepage!
+**Name:** Kaycie McColley
+**Major:** Economics and Public Policy  
+**University:** Simmons University  
 
-Hi, I'm Kaycie McColley and this is my GitHub Page.
+I'm passionate about research that combines economics and public policy, especially in areas like income inequality, labor markets, and the social impacts of economic policy. I'm especially interested in how data and econometrics can shape and support better policy decisions.  
 
-I am an Economics Major at Simmons University. I am interested in Public Policy and academic research! I have experience using Stata and I am a beginner at using R studio.</p>
+**Technical Skills:**  
+- R (beginner)  
+- Regression modeling, data cleaning, data visualization  
+- Stata
+
+
+## Site Purpose
+
+This site is a portfolio for sharing my work in STAT228 and other data-related projects. 
+---
+
+## Projects
+
+### STAT228 Mini-Projects
+
+#### Fur-tunate of Not 
+In this project, I used adoption data from the Long Beach Animal Shelter to test whether black cats are adopted at lower rates than cats of other colors. This analysis combined descriptive statistics with logistic regression.  
+(https://your-username.github.io/stat228-black-cats)
+
+#### Names in Numbers: A Tutorial on how to use Data Wrangling to find Trends
+In this project, I used the dataset 'babynames' in R to create a tutorial on data wrangling!
