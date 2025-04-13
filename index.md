@@ -35,8 +35,8 @@ This site is a portfolio for sharing my work in STAT228 and other data-related p
 
 #### Fur-tunate or Not  
 In this project, I used adoption data from the Long Beach Animal Shelter to test whether black cats are adopted at lower rates than cats of other colors. This analysis combined descriptive statistics with logistic regression.  
-[View Project on GitHub](https://github.com/Kaycie-mc89/DS-228-Mini-Project-1)
+[Fur-tunate or Not](file:///Users/kaycie_mc/Desktop/Data%20Science/McColley:%20DS%20-%20Mini%20Project/Fur-tunate%20or%20not%3F.html)
 
 #### Names in Numbers: A Tutorial on How to Use Data Wrangling to Find Trends  
 In this project, I used the dataset `babynames` in R to create a tutorial on data wrangling techniques.  
-[View Project on GitHub](https://github.com/Kaycie-mc89/DS-228-Mini-Project-2)
+[Data Wrangling Tutorial](file:///Users/kaycie_mc/Desktop/Data%20Science/Mini%20Project%202/McColley-Mini-Project-2.html)
